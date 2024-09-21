@@ -1,10 +1,13 @@
 h1 {
-    color: black;
-    border-color: black;
+    color: darkgreen;
+    border-color:black ;
 }
 img{
     width: 200px;
 }
 p{
    color: blue;border: 0cap;  
+}
+li {
+    size: 20px;
 }
